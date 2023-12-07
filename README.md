@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu Sou Desenvolvedor Front-End</h1>
-<h3 align="center">Um desenvolvedor Apaixonado por Front-End e Back-End</h3>
+<h3 align="center">Um desenvolvedor Apaixonado por Front-End e Ciência De Dados</h3>
 
 - 🔭 Atualmente estou trabalhando com Desenvolvimento De um Site [Projeto Site Meu Pet](file:///C:/Users/DEUZENIAS%20DA%20COSTA/Downloads/projeto%20site%20Meu%20Pet/index.html)
 
